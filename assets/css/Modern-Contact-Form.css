@@ -67,3 +67,13 @@ input[type="text"], input[type="email"], input[type="tel"], textarea {
   font-family: 'Jost';
 }
 
+.info {
+  width: auto;
+}
+
+.info p {
+  text-align: center;
+  font-family: 'Jost';
+  font-size: 20px;
+}
+
